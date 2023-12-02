@@ -1,0 +1,17 @@
+*.csv
+*.pyc
+*.log
+*.pickle
+*.doctree
+*.svg
+*.less
+*.swp
+*.map
+.idea
+prognosis.egg-info/*
+dist/*
+build/*
+pyvenv.cfg
+/bin
+/share
+/lib
